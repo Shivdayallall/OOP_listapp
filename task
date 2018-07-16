@@ -1,0 +1,23 @@
+list application
+------------
+    HTML
+------------
+have input box so when user click in the box it add the item to a list.X
+div to output item from the list.X
+container to hold input box and outputed item.X
+-------------
+JAVASCRIPT
+-------------
+make it so text input add its value to a list via function.X
+text input must also clear when enter is press.X
+cross out list item when it is clicked on.X
+make list item deleteable.X
+make it so that crossout() and delete() dont overlap when list item is click.X
+****FIGURE OUT A WAY TO GET LIST ITEM TO STORE ON PAGE RELOAD.**** x
+----------
+  CSS
+----------  
+make media quries.X
+use flex-box and or grid to style.X
+make front end  pretty.X
+
